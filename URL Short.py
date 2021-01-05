@@ -35,5 +35,3 @@ if shorten_res.status_code == 200:
     # if response is OK, get the shortened URL
     link = shorten_res.json().get("link")
     print("Shortened URL:", link)
-
-    print('Hello')
