@@ -1,5 +1,7 @@
 import requests
 
+
+#Access to API
 username = 'o_1vqlrrr35p'
 password = 'Chichi30!'
 
